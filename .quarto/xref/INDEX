@@ -136,5 +136,14 @@
   },
   "10-chapter 10.qmd": {
     "10-chapter 10.html": "06e718f4"
+  },
+  "intro.qmd": {
+    "intro.html": "f152ec82"
+  },
+  "summary.qmd": {
+    "summary.html": "c479d231"
+  },
+  "references.qmd": {
+    "references.html": "37ebc9bf"
   }
 }
