@@ -1,5 +1,3 @@
----
-title: "Summary"
----
+# Summary
 
-Key takeaways and action steps.
+This section intentionally left brief.

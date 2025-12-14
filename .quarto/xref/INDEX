@@ -145,5 +145,11 @@
   },
   "references.qmd": {
     "references.html": "37ebc9bf"
+  },
+  "01-chapter 1.qmd": {
+    "01-chapter 1.html": "490fc8d8"
+  },
+  "11-chapter 11.qmd": {
+    "11-chapter 11.html": "366c6775"
   }
 }
