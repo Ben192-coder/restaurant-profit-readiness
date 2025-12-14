@@ -1,0 +1,35 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Restaurant Profit Readiness Guide"
+  author: "Ben Halperin"
+
+  chapters:
+    - index.qmd
+    - 01-chapter 1.qmd
+    - 02-chapter 2.qmd
+    - 03-chapter 3.qmd
+    - 04-chapter 4.qmd
+    - 05-chapter 5.qmd
+    - 06-chapter 6.qmd
+    - 07-chapter 7.qmd
+    - 08-chapter 8.qmd
+    - 09-chapter 9.qmd
+    - 10-chapter 10.qmd
+    - 11-chapter 11.qmd
+    - 12-chapter 12.qmd
+    - 13-chapter 13.qmd
+    - 14-chapter 14.qmd
+    - 15-chapter 15.qmd
+    - 16-chapter 16.qmd
+    - 17-chapter 17.qmd
+    - 18-chapter 18.qmd
+    - 19-chapter 19.qmd
+    - 20-chapter 20.qmd
+    - 99-epilogue.qmd
+
+format:
+  html:
+    toc: true

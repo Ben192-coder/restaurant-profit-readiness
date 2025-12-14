@@ -1,0 +1,27 @@
+---
+title: "Untitled"
+author: "Ben Halperin"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Welcome
+
+## Restaurant Profit Readiness Guide
+
+This guide is designed for restaurant owners and operators who want clear, practical control over profitability — without guesswork.
+
+Inside, you’ll learn how to: - Understand true daily break-even - Control labor based on real sales patterns - Identify food cost leakage - Find the exact point where profit accelerates - Make confident, data-driven decisions
+
+This guide pairs with the **Restaurant Profit Readiness Check** and is intended to be practical, not theoretical.
+
+Use it as: - A diagnostic companion - A training reference - A decision-making framework
+
+------------------------------------------------------------------------
+
+**Author:** Ben Halperin\
+Restaurant Success Labs

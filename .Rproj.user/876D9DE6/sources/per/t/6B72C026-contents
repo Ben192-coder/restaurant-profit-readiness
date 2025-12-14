@@ -1,0 +1,7 @@
+project:
+
+type: book
+
+book: title: "Restaurant Profit Readiness Guide" subtitle: "Break-Even, Labor, Food Cost, and Profit Control" author: "Ben Halperin" chapters: - index.qmd - chapter01.md - chapter02.md - chapter03.md - chapter04.md - chapter05.md - chapter06.md - chapter07.md - chapter08.md - chapter09.md - chapter10.md - chapter11.md - chapter12.md - chapter13.md - chapter14.md - chapter15.md - chapter16.md - chapter17.md - chapter18.md - chapter19.md - chapter20.md - chapter21.md - chapter22.md
+
+format: html: toc: true toc-depth: 2 number-sections: true pdf: documentclass: book number-sections: true
