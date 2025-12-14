@@ -1,0 +1,217 @@
+---
+title: "chapter 18 Recovery Without Drama"
+author: "Ben Halperin"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+Chapter 18 — Hiring, Training, and Developing Talent
+
+Restaurants often say they are short-staffed.
+
+What they usually mean is they are short on alignment.
+
+Hiring is not about filling positions.
+It is about protecting systems.
+
+This chapter is about why training new people is easier than untraining bad habits—and how to build teams that reinforce standards instead of resisting them.
+
+Experience Is Overrated
+
+Experience looks attractive on paper.
+
+In practice, experience often means:
+
+habits formed elsewhere
+
+standards learned in different systems
+
+shortcuts normalized under pressure
+
+Untraining is harder than training.
+
+This is especially true in the kitchen.
+
+BOH: Develop, Don’t Rewire
+
+Back-of-house roles reward:
+
+consistency
+
+discipline
+
+repetition
+
+respect for standards
+
+Line cooks with deeply ingrained habits often struggle when asked to:
+
+measure instead of eyeball
+
+plate to spec
+
+follow motion standards
+
+Newer cooks, properly trained, often outperform veterans because they:
+
+learn one system
+
+internalize standards early
+
+don’t fight correction
+
+For BOH, teachability beats experience.
+
+FOH: Experience Matters — But Alignment Matters More
+
+Front-of-house is different.
+
+Service requires:
+
+emotional intelligence
+
+confidence
+
+timing
+
+situational awareness
+
+Some of this only comes from experience.
+
+But experience without alignment creates problems:
+
+overselling
+
+freelancing
+
+boundary erosion
+
+FOH hires should be evaluated on:
+
+how they guide decisions
+
+how they respond to structure
+
+how they handle boundaries
+
+Not just charisma.
+
+Interviewing for Alignment
+
+Good interviews don’t sell the job.
+
+They reveal thinking.
+
+Questions should surface:
+
+how candidates handle standards
+
+how they react to correction
+
+how they define good service
+
+whether they see service as guidance or performance
+
+The goal is not agreement.
+
+The goal is compatibility.
+
+Training Is System Introduction
+
+Training is not information transfer.
+
+It is system immersion.
+
+Effective training:
+
+shows what “right” looks like
+
+explains why it matters
+
+removes ambiguity
+
+sets expectations early
+
+If training feels vague, standards will be vague.
+
+Early Correction Is Kindness
+
+Most training failures come from delayed correction.
+
+Letting things slide early teaches:
+
+standards are flexible
+
+correction is personal
+
+feedback is optional
+
+Early, calm correction:
+
+builds confidence
+
+prevents resentment
+
+protects culture
+
+Correction is not punishment.
+
+It is clarity.
+
+Peer Reinforcement Matters
+
+Strong teams teach each other.
+
+Not through hazing or dominance—but through survival.
+
+When:
+
+coworkers quietly help new staff
+
+standards are reinforced casually
+
+mistakes are corrected without drama
+
+Culture stabilizes.
+
+When teasing, exclusion, or “sink or swim” behavior appears, turnover follows.
+
+Turnover kills systems.
+
+Training Never Ends — But It Evolves
+
+Training does not stop after onboarding.
+
+It shifts to:
+
+refinement
+
+reinforcement
+
+adaptation
+
+As systems improve, training updates.
+
+Static training produces drift.
+
+Hiring Is a Strategic Function
+
+Hiring decisions shape:
+
+guest experience
+
+food cost
+
+labor cost
+
+management workload
+
+Hiring the wrong person creates work for everyone else.
+
+Hiring fewer, better-aligned people makes the restaurant calmer.

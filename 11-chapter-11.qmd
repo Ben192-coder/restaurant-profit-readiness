@@ -1,0 +1,308 @@
+---
+title: "chapter 11  Timing Is Hospitality"
+author: "Ben Halperin"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+Chapter 11 — Recovery, Comping, and Guest Control
+
+Every restaurant makes mistakes.
+
+Food is late.
+Orders are wrong.
+Expectations are missed.
+
+What separates strong restaurants from weak ones is not whether problems occur—but how they are handled.
+
+Recovery is not a customer service tactic.
+It is a system design problem.
+
+Recovery Has a Philosophy Before It Has a Policy
+
+Most restaurants jump straight to rules:
+
+what can be comped
+
+who can authorize it
+
+how much is too much
+
+Without a philosophy, rules create confusion and resentment.
+
+The guiding principle is simple:
+
+We fix legitimate failures decisively.
+We do not reward confusion, indecision, or manipulation.
+
+This distinction protects:
+
+staff morale
+
+guest trust
+
+financial discipline
+
+And it keeps recovery from becoming a performance.
+
+What Actually Deserves Recovery
+
+Recovery is appropriate when the restaurant fails to deliver what it promised.
+
+Examples:
+
+incorrect orders
+
+unsafe or improperly cooked food
+
+unreasonable delays
+
+service breakdowns
+
+execution errors
+
+These are not debates.
+They are responsibilities.
+
+When the restaurant fails, the restaurant fixes it—quickly and cleanly.
+
+What Does Not Deserve Recovery
+
+Not every negative experience is a failure.
+
+Examples:
+
+a guest changing their mind
+
+a guest not liking a flavor
+
+a guest misunderstanding the menu
+
+a guest ordering incorrectly
+
+a guest expecting something never promised
+
+These situations require education and guidance, not compensation.
+
+Comping in these cases trains the wrong behavior.
+
+The Decision Tree: Fix, Comp, Educate, Decline
+
+Every recovery decision falls into one of four paths.
+
+1. Fix It
+
+remake the dish
+
+correct the error
+
+rebuild the entire plate
+
+Partial fixes erode trust.
+
+If something must be remade or reheated, the entire plate is rebuilt. New bun. New sides. New garnish. No shortcuts.
+
+2. Comp It
+
+when the failure is clear
+
+when the guest experience was materially damaged
+
+when speed and goodwill matter
+
+Comping should feel calm and confident—not apologetic or dramatic.
+
+3. Educate
+
+when expectations were unclear
+
+when preferences were not communicated
+
+when the menu was misunderstood
+
+Education is respectful, brief, and factual.
+
+4. Decline
+
+when behavior is manipulative
+
+when demands are unreasonable
+
+when boundaries are tested
+
+Declining is not rude.
+It is honest.
+
+Why Servers Should Not Handle Conflict
+
+Servers are there to guide the experience—not to negotiate conflict.
+
+When servers are forced to:
+
+argue
+
+apologize excessively
+
+negotiate compensation
+
+manage emotional guests
+
+They lose authority and confidence.
+
+Recovery decisions belong to management.
+
+Removing servers from conflict:
+
+protects their energy
+
+keeps service natural
+
+trains guests correctly
+
+A calm manager resolves issues faster than a stressed server ever could.
+
+Over-Comping Trains Bad Behavior
+
+Guests learn quickly.
+
+When restaurants:
+
+comp at the first sign of discomfort
+
+escalate minor issues
+
+override standards publicly
+
+They teach guests:
+
+complaining works
+
+pressure gets results
+
+boundaries are flexible
+
+This attracts the wrong behavior—and drives away the right guests.
+
+Engineering Misaligned Guests Out—Gently
+
+Not every guest is a good fit.
+
+Strong restaurants do not confront or embarrass misaligned guests.
+
+They:
+
+stop over-accommodating
+
+hold boundaries calmly
+
+apply standards consistently
+
+remove incentives for manipulation
+
+Over time, these guests self-select out.
+
+This is not exclusion.
+It is alignment.
+
+The Role of Calm Authority
+
+Effective recovery feels boring.
+
+There is:
+
+no drama
+
+no negotiation theater
+
+no public apologies
+
+no escalation
+
+Calm authority reassures guests that:
+
+the restaurant is in control
+
+their experience matters
+
+standards exist
+
+Chaos during recovery destroys trust faster than the original mistake.
+
+Logging Recovery Matters
+
+Recovery decisions should be visible internally.
+
+Tracking:
+
+what was comped
+
+why
+
+how often
+
+by whom
+
+Reveals patterns:
+
+recurring operational failures
+
+menu confusion
+
+training gaps
+
+habitual complainers
+
+Recovery data improves systems—if it’s captured.
+
+Recovery Protects the Experience
+
+Handled well, recovery:
+
+restores trust
+
+reinforces standards
+
+supports staff
+
+protects margins
+
+Handled poorly, it:
+
+trains entitlement
+
+exhausts staff
+
+erodes culture
+
+creates financial leakage
+
+Recovery is not generosity.
+
+It is discipline applied with empathy.
+
+Guest Control Is Part of Hospitality
+
+This matters:
+
+Hospitality without boundaries is chaos.
+
+Guests feel safer when:
+
+expectations are clear
+
+standards are enforced
+
+decisions are consistent
+
+Control does not reduce warmth.
+It enables it.
+
+When recovery is designed, not improvised, everyone relaxes.
+
+And relaxed restaurants win.

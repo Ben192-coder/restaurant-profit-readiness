@@ -1,0 +1,15 @@
+{
+  "hash": "049f60956ed6b4521cec2f7bc123be82",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"chapter 19 From Heroics to Systems\"\nauthor: \"Ben Halperin\"\ndate: \"2025-12-13\"\noutput: html_document\n---\n\n\n\n\n\nChapter 19 — Incentives, Accountability, and Reinforcement\n\nPeople do what is rewarded.\n\nThey also do what is tolerated.\n\nRestaurants often get this backwards.\n\nThis chapter is about reinforcing the right behavior without creating resentment, competition, or perverse incentives.\n\nIncentives Shape Behavior — Always\n\nEven when you think you don’t have incentives, you do.\n\nExamples:\n\npraising speed over accuracy\n\ncomping without explanation\n\nignoring waste\n\ntolerating shortcuts\n\nThese all reward something.\n\nThe question is whether you intended to.\n\nFOH Incentives: Behavior, Not Volume\n\nFOH incentives should reward:\n\nadd-on behavior\n\ndessert introductions\n\naligned pacing\n\nguest trust\n\nThey should not reward:\n\naggressive upselling\n\npressure\n\ncheck manipulation\n\nThe best incentives feel like recognition, not commissions.\n\nBOH Incentives: Respect the Invisible Work\n\nKitchen incentives should never be announced in front of cooks while rewarding FOH only.\n\nThat creates poison instantly.\n\nBOH incentives can include:\n\nticket-time consistency\n\nwaste reduction\n\ncleanliness and labeling\n\naccurate end-of-shift reporting\n\nThese reward discipline—not speed alone.\n\nChef Specials as Incentive Vehicles\n\nSpecials are powerful:\n\nthey test the market\n\nthey drive excitement\n\nthey justify prep labor\n\nWhen specials succeed, cooks should benefit.\n\nThis ties creativity to outcomes—not ego.\n\nAccountability Without Fear\n\nAccountability fails when it feels arbitrary.\n\nIt works when:\n\nexpectations are clear\n\nmetrics are visible\n\nconsequences are consistent\n\nFear-based accountability creates:\n\nhiding\n\nblaming\n\nshortcuts\n\nVisibility-based accountability creates ownership.\n\nPerfect Guests Should Be Rewarded Too\n\nAligned guests matter.\n\nGuests who:\n\ntrust recommendations\n\nrespect staff\n\nreturn regularly\n\nShould feel recognized.\n\nNot with discounts—but with:\n\nmemory\n\naccess\n\nsubtle priority\n\nThis reinforces the behavior you want more of.\n\nIncentives Must Be Sustainable\n\nIf an incentive:\n\nerodes margins\n\nrequires constant escalation\n\ntrains entitlement\n\nIt will fail.\n\nIncentives should reinforce systems—not replace them.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

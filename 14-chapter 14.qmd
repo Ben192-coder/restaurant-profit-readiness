@@ -1,0 +1,288 @@
+---
+title: "chapter 14 Food Cost Reality"
+author: "Ben Halperin"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+Chapter 14 — Menu Engineering and Product Mix
+
+Menus do more than list food.
+
+They direct behavior.
+
+Every item on a menu influences:
+
+what guests choose
+
+how much they spend
+
+how long they stay
+
+how difficult service becomes
+
+Menu engineering is the practice of designing those influences intentionally.
+
+Popularity and Profitability Are Not the Same
+
+A dish can be:
+
+popular and profitable
+
+popular and unprofitable
+
+unpopular and profitable
+
+unpopular and unprofitable
+
+Most restaurants only look at sales volume.
+
+That hides the real story.
+
+Understanding product mix requires tracking both:
+
+how often an item sells
+
+how much it contributes
+
+Without both, decisions are guesses.
+
+The Four-Quadrant Model
+
+A simple way to visualize menu performance is a two-axis chart:
+
+X-axis: Profitability
+
+Y-axis: Popularity
+
+This creates four categories:
+
+Stars — high popularity, high profitability
+
+Workhorses — high popularity, low profitability
+
+Puzzles — low popularity, high profitability
+
+Dogs — low popularity, low profitability
+
+The goal is not to eliminate categories.
+
+It is to manage them intentionally.
+
+Stars: Protect Them
+
+Stars:
+
+define the restaurant
+
+drive guest satisfaction
+
+support margins
+
+They deserve:
+
+protection from shortcuts
+
+consistent execution
+
+visibility on the menu
+
+Do not overcomplicate stars.
+Do not tinker casually.
+
+They are doing their job.
+
+Workhorses: Control Them
+
+Workhorses sell well but contribute less.
+
+They:
+
+anchor the menu
+
+meet expectations
+
+create traffic
+
+These items require:
+
+strict portion control
+
+cost discipline
+
+careful upsell strategy
+
+Workhorses often fund everything else.
+
+Treat them with respect.
+
+Puzzles: Fix or Feature
+
+Puzzles make money but don’t sell.
+
+This usually means:
+
+the name is unclear
+
+the description misses the point
+
+the placement is wrong
+
+servers don’t believe in it
+
+Before removing a puzzle, try:
+
+repositioning
+
+renaming
+
+featuring as a special
+
+training staff to recommend it
+
+If it still doesn’t move, it doesn’t belong.
+
+Dogs: Replace Thoughtfully
+
+Dogs drain attention and resources.
+
+They:
+
+slow service
+
+complicate prep
+
+add cognitive load
+
+Removing a dog is not failure.
+
+But replacement matters.
+
+What does it displace?
+What behavior does it change?
+
+Substitution Effects Matter
+
+Menus don’t exist in isolation.
+
+Adding a new item always replaces something in the guest’s decision.
+
+Key question:
+
+What would the guest have ordered instead?
+
+If a new special:
+
+replaces a low-margin item → good
+
+replaces a high-margin item → dangerous
+
+Specials must be evaluated not just on sales—but on what they cannibalize.
+
+Specials as Market Tests
+
+Specials are powerful because they:
+
+test demand
+
+create urgency
+
+allow experimentation
+
+generate excitement
+
+They are controlled A/B tests.
+
+Use them to answer questions like:
+
+Do guests want this flavor?
+
+Will they pay this price?
+
+Does this replace or add?
+
+Data from specials should inform menu decisions—not disappear after the weekend.
+
+Scarcity Creates Devotion
+
+Some items work best because they are not always available.
+
+Limited-time offerings:
+
+feel special
+
+create anticipation
+
+drive repeat visits
+
+An item that sells 150 units in one day as a special may lose impact as a permanent menu item.
+
+Scarcity is not manipulation.
+
+It is focus.
+
+Product Mix and Labor
+
+Menu engineering also affects labor.
+
+Items vary in:
+
+prep complexity
+
+station load
+
+execution risk
+
+A profitable item that breaks the kitchen during volume is not truly profitable.
+
+Menu design must consider:
+
+throughput
+
+bottlenecks
+
+training load
+
+Profit without flow is fragile.
+
+The Dessert Effect
+
+Dessert is unique.
+
+When core items cover fixed costs, dessert often represents disproportionate profit.
+
+Dessert sales:
+
+accelerate profit
+
+extend the experience
+
+increase average spend
+
+Tracking dessert mix over time reveals more than average check alone.
+
+Dessert is not just a menu section.
+
+It is a strategy.
+
+Data Makes Menu Decisions Calm
+
+Menu changes are emotional without data.
+
+With data:
+
+debates end
+
+decisions feel fair
+
+experiments are intentional
+
+Menu engineering turns intuition into insight.
+
+And insight into profit.

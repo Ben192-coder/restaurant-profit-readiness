@@ -1,0 +1,154 @@
+---
+title: "chapter 19 From Heroics to Systems"
+author: "Ben Halperin"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+Chapter 19 — Incentives, Accountability, and Reinforcement
+
+People do what is rewarded.
+
+They also do what is tolerated.
+
+Restaurants often get this backwards.
+
+This chapter is about reinforcing the right behavior without creating resentment, competition, or perverse incentives.
+
+Incentives Shape Behavior — Always
+
+Even when you think you don’t have incentives, you do.
+
+Examples:
+
+praising speed over accuracy
+
+comping without explanation
+
+ignoring waste
+
+tolerating shortcuts
+
+These all reward something.
+
+The question is whether you intended to.
+
+FOH Incentives: Behavior, Not Volume
+
+FOH incentives should reward:
+
+add-on behavior
+
+dessert introductions
+
+aligned pacing
+
+guest trust
+
+They should not reward:
+
+aggressive upselling
+
+pressure
+
+check manipulation
+
+The best incentives feel like recognition, not commissions.
+
+BOH Incentives: Respect the Invisible Work
+
+Kitchen incentives should never be announced in front of cooks while rewarding FOH only.
+
+That creates poison instantly.
+
+BOH incentives can include:
+
+ticket-time consistency
+
+waste reduction
+
+cleanliness and labeling
+
+accurate end-of-shift reporting
+
+These reward discipline—not speed alone.
+
+Chef Specials as Incentive Vehicles
+
+Specials are powerful:
+
+they test the market
+
+they drive excitement
+
+they justify prep labor
+
+When specials succeed, cooks should benefit.
+
+This ties creativity to outcomes—not ego.
+
+Accountability Without Fear
+
+Accountability fails when it feels arbitrary.
+
+It works when:
+
+expectations are clear
+
+metrics are visible
+
+consequences are consistent
+
+Fear-based accountability creates:
+
+hiding
+
+blaming
+
+shortcuts
+
+Visibility-based accountability creates ownership.
+
+Perfect Guests Should Be Rewarded Too
+
+Aligned guests matter.
+
+Guests who:
+
+trust recommendations
+
+respect staff
+
+return regularly
+
+Should feel recognized.
+
+Not with discounts—but with:
+
+memory
+
+access
+
+subtle priority
+
+This reinforces the behavior you want more of.
+
+Incentives Must Be Sustainable
+
+If an incentive:
+
+erodes margins
+
+requires constant escalation
+
+trains entitlement
+
+It will fail.
+
+Incentives should reinforce systems—not replace them.

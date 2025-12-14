@@ -1,0 +1,272 @@
+---
+title: "chapter 4 Friction Is the Enemy"
+author: "Ben Halperin"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+Chapter 4 — Customer Engineering
+
+Restaurants like to believe they serve everyone.
+
+They don’t.
+
+Every restaurant—whether intentionally or not—chooses its customer through hundreds of small decisions. Menu design, pricing, service style, pace, language, and even what is not offered all act as filters.
+
+Customer engineering is the practice of making those filters intentional.
+
+You Are Already Choosing Your Customer
+
+The idea that a restaurant can please everyone is comforting—and false.
+
+Consider a few simple choices:
+
+A long, complex menu selects for indecisive guests
+
+Very low prices select for price-sensitive guests
+
+Very high prices select for special-occasion diners
+
+Unfamiliar food selects for adventurous eaters
+
+Fast pacing selects for efficiency seekers
+
+Slow pacing selects for experience seekers
+
+None of these are wrong.
+
+But each one attracts some guests and excludes others.
+
+When operators say, “We just want good customers,” what they usually mean is:
+
+“We want customers whose behavior matches how our restaurant is designed.”
+
+Customer engineering is about making that match deliberate.
+
+The Cost of Misalignment
+
+Problems arise when a restaurant attracts customers it is not designed to serve.
+
+Examples:
+
+A value-driven menu paired with slow, theatrical service
+
+An experience-driven concept paired with rushed execution
+
+A casual environment paired with formal expectations
+
+A complex menu paired with undertrained staff
+
+In these situations, no one wins:
+
+guests feel confused or disappointed
+
+staff feel blamed
+
+management feels reactive
+
+margins erode
+
+The restaurant did not fail at hospitality.
+It failed at alignment.
+
+Engineering Through Design, Not Enforcement
+
+Customer engineering is not about policing guests.
+
+It’s about designing the experience so the right guests feel comfortable and the wrong guests gently self-select out.
+
+This is done through:
+
+menu clarity
+
+pricing signals
+
+portion structure
+
+service language
+
+pacing
+
+recovery boundaries
+
+When these elements are aligned, the dining room becomes calmer—not louder.
+
+Why You Can’t Out-Serve Bad Design
+
+Many restaurants attempt to fix design problems with effort:
+
+“Just explain it better”
+
+“Just upsell harder”
+
+“Just be friendlier”
+
+This puts pressure on staff to compensate for structural issues.
+
+Great restaurants do the opposite:
+
+they remove unnecessary decisions
+
+they simplify choices
+
+they guide behavior naturally
+
+The goal is not to control guests.
+The goal is to make the desired behavior the easiest behavior.
+
+Aligned Guests vs. Misaligned Guests
+
+An aligned guest:
+
+trusts recommendations
+
+orders confidently
+
+engages with the experience
+
+respects staff
+
+returns regularly
+
+A misaligned guest:
+
+resists guidance
+
+questions every detail
+
+feels rushed or bored
+
+creates friction
+
+rarely returns satisfied
+
+The difference is not personality or money.
+
+It is fit.
+
+Reinforcing Aligned Guest Behavior
+
+Customer engineering does not stop once a guest sits down.
+
+Restaurants constantly train guests—often unintentionally.
+
+When restaurants:
+
+over-reward complaints
+
+comp preference changes
+
+escalate minor issues
+
+undermine staff publicly
+
+They train guests to behave poorly.
+
+When restaurants:
+
+recover legitimate failures cleanly
+
+set clear boundaries
+
+remove servers from conflict
+
+recognize respectful behavior
+
+They train guests to behave well.
+
+This reinforcement is usually subtle:
+
+remembered preferences
+
+confident guidance
+
+consistent standards
+
+calm authority
+
+Guests learn quickly what works in a room.
+
+The Dining Room Self-Selects Over Time
+
+Well-designed restaurants notice something interesting over time:
+
+The room gets easier.
+
+Not because staff improved—but because the guest mix improved.
+
+Aligned guests return.
+Misaligned guests drift away.
+
+This is not exclusion.
+It is clarity.
+
+And clarity is one of the most underappreciated forms of hospitality.
+
+Customer Engineering Is Not About Elitism
+
+This matters:
+
+Customer engineering is not about wealth, status, or sophistication.
+
+It is about behavior and expectations.
+
+A guest ordering a single entrée can be perfectly aligned.
+A guest ordering everything can be misaligned.
+
+The system does not judge spend.
+It responds to fit.
+
+Designing for the Customer You Want More Of
+
+Once you understand customer engineering, the question changes.
+
+You stop asking:
+
+“How do we get more people in the door?”
+
+You start asking:
+
+“Who do we want more of—and are we designed for them?”
+
+That question shapes:
+
+menu decisions
+
+pricing strategy
+
+service standards
+
+recovery philosophy
+
+marketing choices
+
+Everything downstream improves when the answer is clear.
+
+Customer Engineering Is Foundational
+
+Customer engineering sits beneath:
+
+standards
+
+service choreography
+
+menu engineering
+
+profit triggers
+
+takeout strategy
+
+If the wrong customers dominate the room, even great systems struggle.
+
+If the right customers dominate the room, systems reinforce themselves.
+
+That is not luck.
+
+That is design.

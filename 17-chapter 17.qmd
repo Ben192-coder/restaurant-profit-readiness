@@ -1,0 +1,283 @@
+---
+title: "chapter 17 Error-Proofing the Experience"
+author: "Ben Halperin"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+Chapter 17 — Marketing, Visibility, and Measuring What Works
+
+Most restaurants do not have a marketing problem.
+
+They have a measurement problem.
+
+Money is spent. Posts are made. Ads are run. Something seems to happen—or not. Then everyone moves on without knowing why.
+
+Marketing feels mysterious because it is rarely tied to behavior, outcomes, or systems.
+
+This chapter is about removing the mystery.
+
+Marketing Is Demand Engineering
+
+Marketing is not branding.
+It is not creativity.
+It is not social media activity.
+
+Marketing exists to answer one question:
+
+Did this create the kind of guest we want, behaving the way we need?
+
+If the answer is unclear, the marketing failed—regardless of likes, impressions, or reach.
+
+Visibility Comes Before Persuasion
+
+Most guests are not choosing between restaurants.
+
+They are choosing between:
+
+the first few options they see
+
+what feels easy
+
+what feels familiar
+
+Visibility matters more than persuasion.
+
+This is why:
+
+“near me” searches dominate
+
+paid listings outperform organic ones
+
+convenience beats storytelling
+
+If you are not visible at the moment of decision, nothing else matters.
+
+The Modern Discovery Funnel
+
+Most restaurant discovery follows this path:
+
+Search or scroll
+
+Quick visual scan
+
+Menu glance
+
+Price gut-check
+
+Decision
+
+This entire process can take under 30 seconds.
+
+Marketing that assumes attention will fail.
+
+Marketing that respects speed will win.
+
+Paid vs. Organic Is a False Debate
+
+Paid and organic serve different purposes.
+
+Paid creates immediate visibility
+
+Organic builds familiarity and trust over time
+
+The question is not which to use.
+
+The question is:
+
+What behavior is this meant to change?
+
+If you can’t answer that, don’t spend the money.
+
+Promotions Without Measurement Are Discounts
+
+Running a promotion without tracking impact is not marketing.
+
+It is a guess.
+
+Every promotion should be tied to:
+
+a time window
+
+a behavioral goal
+
+a measurable outcome
+
+Examples:
+
+increased dessert penetration
+
+increased weekday traffic
+
+increased takeout conversion
+
+trial of a new item
+
+If you can’t measure it, you can’t learn from it.
+
+Events Are Marketing With Structure
+
+Events work because they:
+
+create urgency
+
+provide a reason to act
+
+concentrate demand
+
+Good events are:
+
+intentional
+
+limited
+
+simple to explain
+
+easy to execute
+
+Bad events are vague, overcomplicated, or constant.
+
+Scarcity creates devotion.
+Repetition creates fatigue.
+
+Measuring What Matters
+
+Marketing should be evaluated using operational metrics—not vanity metrics.
+
+What matters:
+
+covers
+
+mix
+
+average spend
+
+add-on behavior
+
+repeat visits
+
+channel shift (platform → direct)
+
+What doesn’t matter on its own:
+
+likes
+
+impressions
+
+follower count
+
+Attention without conversion is noise.
+
+Attribution Doesn’t Have to Be Perfect
+
+Restaurants often avoid measurement because attribution isn’t perfect.
+
+Perfect attribution is not required.
+
+Directional clarity is enough.
+
+Questions like:
+
+“Did Tuesdays improve after this?”
+
+“Did dessert sales rise during this period?”
+
+“Did direct orders increase?”
+
+Are more valuable than precise credit assignment.
+
+Marketing Is a Feedback Loop
+
+Strong marketing feeds operations.
+
+Operations feed marketing.
+
+Examples:
+
+a successful special becomes a featured campaign
+
+strong dessert performance becomes a visual push
+
+a slow day becomes an event opportunity
+
+When marketing is disconnected from operations, both suffer.
+
+Data Removes Emotion From Marketing
+
+Without data:
+
+marketing feels personal
+
+decisions feel political
+
+failure feels embarrassing
+
+With data:
+
+experiments feel safe
+
+failure becomes learning
+
+success is repeatable
+
+Marketing becomes calm.
+
+Calm marketing is effective marketing.
+
+Marketing Should Attract Aligned Guests
+
+This matters:
+
+Marketing does not just attract volume.
+It attracts behavior.
+
+Your messaging determines:
+
+expectations
+
+pace
+
+price tolerance
+
+experience alignment
+
+Marketing that attracts the wrong guests increases friction everywhere else.
+
+The goal is not more guests.
+
+It is more of the right guests.
+
+Marketing Is Not Separate From the System
+
+Marketing is not a department.
+
+It is an extension of:
+
+customer engineering
+
+menu engineering
+
+service design
+
+profit triggers
+
+When aligned, marketing amplifies everything.
+
+When misaligned, it creates chaos the operation must absorb.
+
+The Question Marketing Must Answer
+
+At the end of every campaign, post, ad, or event, one question matters:
+
+Did this make the business easier to run—or harder?
+
+If it made it easier, do it again.
+If it made it harder, fix the system before repeating it.
+
+That is how marketing becomes an asset instead of a gamble.

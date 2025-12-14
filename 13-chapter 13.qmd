@@ -1,0 +1,279 @@
+---
+title: "chapter 13 Labor as a Control System"
+author: "Ben Halperin"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+Chapter 13 — The End-of-Shift Control Loop
+
+Restaurants lose control slowly.
+
+Not in dramatic failures—but in small, invisible gaps between what was sold, what was prepared, and what was actually used.
+
+This chapter is about closing those gaps daily, without relying on constant full inventories or guesswork.
+
+The end-of-shift control loop connects:
+
+what happened tonight
+
+what must be prepared tomorrow
+
+what needs to be ordered next
+
+When this loop is tight, the operation runs predictably.
+When it’s loose, costs drift and trust erodes.
+
+Why Inventories Fail as a Primary Tool
+
+Full inventories are expensive, disruptive, and often inaccurate.
+
+They:
+
+rely on tired people counting late
+
+happen too infrequently to prevent drift
+
+create lag between problem and discovery
+
+encourage short-term “cleanup” behavior
+
+Inventories are useful for audits.
+They are terrible as a daily control mechanism.
+
+Strong restaurants control food before inventory becomes necessary.
+
+The Shift Report Is the Anchor
+
+The end-of-shift report is not paperwork.
+
+It is the operational memory of the restaurant.
+
+A real shift report captures:
+
+what was sold
+
+what ran out
+
+what was prepped
+
+what was wasted
+
+what was substituted
+
+what surprised the team
+
+If it didn’t make it into the report, it doesn’t exist.
+
+Managers Own the Report
+
+Shift reports must be compiled by a manager or sous chef.
+
+Not delegated.
+Not assumed.
+
+Line cooks participate by:
+
+counting
+
+showing
+
+confirming
+
+But they do not decide prep levels or pars.
+
+This separation matters.
+
+Cooks execute prep.
+Chefs decide prep.
+Managers confirm reality.
+
+Blurring these roles creates bias and blind spots.
+
+Counting Is Not Accusation
+
+Counts are not about catching people.
+
+They are about maintaining alignment between:
+
+projections
+
+execution
+
+reality
+
+When counting is calm and routine, it stops feeling personal.
+
+When it is rare or emotional, it feels accusatory.
+
+Consistency removes tension.
+
+From Sales to Prep Lists
+
+The control loop works in one direction:
+
+Sales data shows demand
+
+Shift report shows what actually happened
+
+Prep lists reflect tomorrow’s needs
+
+Order lists reflect upcoming demand
+
+Each step feeds the next.
+
+When prep lists are guesses, ordering becomes defensive.
+When prep lists are informed, ordering becomes precise.
+
+Prep Is a Decision, Not a Habit
+
+Prep should never be “what we usually do.”
+
+Prep decisions should consider:
+
+recent sales patterns
+
+upcoming events
+
+weather
+
+staffing
+
+shelf life
+
+The end-of-shift report provides the data to make those decisions intentionally.
+
+Pars Are Living Numbers
+
+Pars are not fixed targets.
+
+They are hypotheses.
+
+Every shift tests them.
+
+When pars are:
+
+consistently too high → waste increases
+
+consistently too low → 86s increase
+
+The shift report reveals this quickly—if it’s read.
+
+Adjusting pars is not failure.
+Ignoring them is.
+
+Waste Is Information
+
+Waste should never be hidden.
+
+Waste tells you:
+
+where portions drift
+
+where prep exceeds demand
+
+where recipes are inefficient
+
+where training is needed
+
+Unreported waste creates false confidence and distorted ordering.
+
+Honest waste reporting improves margins faster than cost cutting.
+
+Why This Replaces Constant Inventory
+
+When:
+
+sales are tracked
+
+prep is logged
+
+waste is recorded
+
+counts are confirmed
+
+Inventory becomes predictable.
+
+Instead of asking:
+
+“What do we have?”
+
+You know:
+
+“What should we have—and why.”
+
+That is control.
+
+Missing Food Tells a Story
+
+When food is missing, there are only a few explanations:
+
+it sold
+
+it was wasted
+
+it was comped
+
+it was stolen
+
+it was miscounted
+
+The shift report narrows the list immediately.
+
+Without it, missing food becomes mystery—and mystery breeds blame.
+
+Clean Loops Create Calm Kitchens
+
+When the control loop is tight:
+
+prep feels purposeful
+
+ordering feels confident
+
+counts feel routine
+
+inventories feel confirmatory
+
+Stress drops.
+
+Cooks cook.
+Managers manage.
+Owners trust the numbers.
+
+Control Without Punishment
+
+This system works because it:
+
+does not rely on fear
+
+does not assume bad intent
+
+does not punish honesty
+
+It replaces surprise with visibility.
+
+Visibility builds trust.
+
+The Loop Is the System
+
+The end-of-shift report is not a form.
+
+It is the hinge that connects:
+
+sales
+
+labor
+
+food cost
+
+execution
+
+When that hinge is strong, the whole operation moves smoothly.
+
+When it’s weak, everything squeaks.
